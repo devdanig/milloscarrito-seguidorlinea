@@ -22,15 +22,21 @@ Explorar mejoras con diferentes versiones (transistores → circuitos más robus
 
 🛠️ Materiales Necesarios para primera version
 2 Sensores IR (TCRT5000 o similar)
+
 2 Transistores NPN (2N2222 o BC547)
+
 2 Resistencias de 1kΩ
+
 2 Motores DC (3V-6V)
+
 1 Protoboard
+
 Cables de conexión
 
-
 Fuente de alimentación (4 pilas AA o batería de 6V)
+
 📜 Instrucciones de Uso
+
 1️⃣ Arma el circuito siguiendo el esquema en la carpeta hardware/.
 
 2️⃣ Ubica el carro sobre una superficie con una línea negra bien definida.
